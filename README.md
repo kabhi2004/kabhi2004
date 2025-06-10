@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **PYTHON MACHINE LEARNING**
+- 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 💬 Ask me about **Java**
 
