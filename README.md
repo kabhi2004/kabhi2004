@@ -16,8 +16,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabhi2004&theme=dark" alt="kabhi2004" /></p>
 </p>
 
-<p align="left" theme=dark> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabhi2004&theme=dark" alt="kabhi2004" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabhi2004&show_icons=true&locale=en&layout=compact" alt="kabhi2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabhi2004&show_icons=true&locale=en" alt="kabhi2004" /></p>
