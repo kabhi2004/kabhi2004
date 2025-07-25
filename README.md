@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK</h1>
 <h3 align="center">A passionate Java developer</h3>
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java**
 
