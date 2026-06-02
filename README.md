@@ -33,25 +33,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=700&lines=Abhishek;Java+Full+Stack+Developer;Spring+Boot+%7C+DSA+%7C+MongoDB" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabhi2004&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kabhi2004&show_icons=true&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kabhi2004&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,docker" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kabhi2004&theme=darkhub&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabhi2004&theme=github-dark" />
+</p>
 ---
 
 ## 🛠️ Tech Stack
