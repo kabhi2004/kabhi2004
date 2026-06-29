@@ -1,87 +1,252 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Primary%20Stack-Java%20%7C%20Spring%20Boot-orange?style=for-the-badge&logo=java"/>
+<div align="center">
+
+# Hi 👋, I'm Abhishek
+
+### Backend Engineer | Java • Spring Boot • REST APIs • MySQL
+
+<p>
+<a href="mailto:abhishekkashyap2501@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/k-abhishek2501">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kabhi2004">
+<img src="https://komarev.com/ghpvc/?username=kabhi2004&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<a href="https://github.com/kabhi2004?tab=followers">
+<img src="https://img.shields.io/github/followers/kabhi2004?logo=github&style=for-the-badge"/>
+</a>
+
 </p>
 
-<p align="center">
-  <a href="mailto:abhishekkashyap2501@gmail.com">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/k-abhishek2501/" target="_blank">LinkedIn</a> •
-  <a href="https://instagram.com/k_abhishek24" target="_blank">Instagram</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=1200&center=true&vCenter=true&width=900&lines=Backend+Engineer;Java+Developer;Spring+Boot+Developer;REST+API+Developer;Clean+Architecture+Enthusiast;Always+Learning..." />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+Backend Developer passionate about building scalable, secure, and maintainable backend applications using Java and the Spring ecosystem.
+
+- 🔭 Building RESTful backend services
+- 🌱 Learning Spring Security, Microservices & System Design
+- 💡 Interested in Distributed Systems and Cloud Technologies
+- 💻 Strong in Java, OOP, Collections and DSA
+- 🚀 Always exploring modern backend engineering practices
+
+---
+
+# 💼 Developer Profile
+
+| | |
+|:---|:---|
+| **Role** | Backend Engineer |
+| **Primary Language** | Java |
+| **Framework** | Spring Boot |
+| **Database** | MySQL, MongoDB |
+| **Architecture** | REST APIs, Layered Architecture |
+| **Learning** | Microservices, Docker, AWS |
+| **Focus** | Clean Code & Scalable Systems |
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,maven,linux,postman,idea,vscode"/>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎯 Focused on **Backend Development (Java + Spring Boot)**
-- ⚙️ Building scalable APIs and real-world systems  
-- 📚 Currently learning **Microservices & System Design**
-- 💬 Strong in **Java, OOP, DSA**
+# 🧠 Engineering Principles
+
+- Clean Code
+- SOLID Principles
+- REST API Design
+- Design Patterns
+- Layered Architecture
+- Performance Optimization
+- Secure Development
+- Continuous Learning
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Project
 
-### 🔹 Attendance System (Face Recognition)
-- Built using **Python + Machine Learning (KNN)**
-- Automates attendance using real-time face detection  
-- Reduced manual effort and improved accuracy  
-👉 https://github.com/kabhi2004/Facial-Recognition-Attendance-System
----
+## Facial Recognition Attendance System
 
-## 📊 GitHub Stats
+A production-inspired attendance management platform powered by Computer Vision.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=700&lines=Abhishek;Java+Full+Stack+Developer;Spring+Boot+%7C+DSA+%7C+MongoDB" />
-</p>
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,docker" />
-</p>
+- Python
+- FastAPI
+- React
+- OpenCV
+- KNN
+- MySQL
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabhi2004&theme=darkhub&row=1&column=6" />
-</p>
+### Features
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabhi2004&theme=github-dark" />
-</p>
----
+- 🎯 Real-time Face Recognition
+- 👨‍🎓 Student Dashboard
+- 👨‍🏫 Faculty Dashboard
+- 👨‍💼 Admin Dashboard
+- 📊 Attendance Analytics
+- 🔒 Authentication
+- ⚡ REST APIs
+- 🗄️ MySQL Database
 
-## 🛠️ Tech Stack
+<p>
 
-<p align="center" nowrap>
-
-  <!-- Backend Focus -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-
-  <!-- Supporting -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<a href="https://github.com/kabhi2004/Facial-Recognition-Attendance-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="center" nowrap>
-  <a href="https://www.linkedin.com/in/k-abhishek2501/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-  <a href="https://instagram.com/k_abhishek24" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-  </a>
-  <a href="mailto:abhishekkashyap2501@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30"/>
-  </a>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kabhi2004&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabhi2004&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Spring Security
+- JWT Authentication
+- Microservices
+- Redis
+- Docker
+- Kubernetes
+- AWS
+- System Design
+
+---
+
+# 🗺️ Learning Roadmap
+
+```text
+✅ Core Java
+✅ Object-Oriented Programming
+✅ Collections Framework
+✅ Data Structures & Algorithms
+✅ SQL & MySQL
+✅ REST APIs
+🔄 Spring Security
+🔄 Docker
+🔄 Redis
+🔄 Microservices
+🔄 Kubernetes
+🔄 AWS
+🔄 System Design
+```
+
+---
+
+# 📈 Backend Architecture Journey
+
+```mermaid
+flowchart LR
+
+A[Java] --> B[Spring Boot]
+
+B --> C[REST APIs]
+
+C --> D[MySQL]
+
+D --> E[Docker]
+
+E --> F[Microservices]
+
+F --> G[AWS]
+```
+
+---
+
+# 🎯 2026 Goals
+
+- Build Production Ready Backend Applications
+- Master Spring Boot Ecosystem
+- Learn Distributed Systems
+- Deploy Applications on AWS
+- Contribute to Open Source
+- Improve System Design Skills
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:abhishekkashyap2501@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/k-abhishek2501">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/kabhi2004">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my projects, don't forget to ⭐ them.
+
+🚀 Happy Coding!
+
+</div>
+
