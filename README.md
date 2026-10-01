@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Abhishek
 
-### Backend Engineer | Java • Spring Boot • REST APIs • MySQL
+### Backend Engineer | Java • Spring Boot • Backend 
 
 <p>
 <a href="mailto:abhishekkashyap2501@gmail.com">
